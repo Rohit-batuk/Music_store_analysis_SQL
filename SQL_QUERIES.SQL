@@ -1,6 +1,6 @@
 
 
-/*	Question Set 1 - Easy */
+/*	Question Set 1    */
 
 /* Q1: Who is the senior most employee based on job title? */
 
@@ -49,7 +49,7 @@ LIMIT 1;
 
 
 
-/* Question Set 2 - Moderate */
+/* Question Set 2 -  */
 
 /* Q1: Write query to return the email, first name, last name, & Genre of all Rock Music listeners. 
 Return your list ordered alphabetically by email starting with A. */
@@ -107,7 +107,7 @@ ORDER BY miliseconds DESC;
 
 
 
-/* Question Set 3 - Advance */
+/* Question Set 3 -  */
 
 /* Q1: Find how much amount spent by each customer on artists? Write a query to return customer name, artist name and total spent */
 
